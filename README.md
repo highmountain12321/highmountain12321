@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="logo.jpg" style = "width: 100%;"/>
+  <img align="center" src="assets/logo.jpg" style = "width: 100%;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -55,7 +55,7 @@ I am a full-stack developer with a broad and versatile coding skill set. I quick
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<img align="right" alt="GIF" src="images.jfif" width="400" />
+<img align="right" alt="GIF" src="assets/images.jfif" width="400" />
  
 ### Frontend & Backend Development
 <br />
